@@ -1,0 +1,11 @@
+🪜 Optimization Recommendations: -
+
+After viewing insights:
+
+1. High No-Show Days → Reduce booking load or send extra SMS reminders.
+
+2. High No-Show Hours → Offer flexible time slots or buffer periods.
+
+3. Frequent Missed Visit Reasons → Educate patients about importance or follow-ups.
+
+4. Patient Segmentation → Use Power BI filters to see which demographics miss most often.
