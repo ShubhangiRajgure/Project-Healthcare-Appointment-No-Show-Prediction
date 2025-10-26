@@ -14,15 +14,15 @@ prediction model.
 **3. Microsoft Excel:** For dataset inspection and basic data structuring. 
 
 ## Steps Involved in Building the Project 
-**1. Data Collection:** Imported appointment dataset containing details like patient ID, doctor 
+1. **Data Collection:** Imported appointment dataset containing details like patient ID, doctor 
 ID, appointment date, and status. 
-**2. Data Cleaning:** Removed missing values, formatted date/time columns, and encoded 
+2. **Data Cleaning:** Removed missing values, formatted date/time columns, and encoded 
 categorical features. 
-**3. Feature Engineering:** Created new fields such as weekday and appointment slot to 
+3. **Feature Engineering:** Created new fields such as weekday and appointment slot to 
 capture behavioral patterns. 
-**4. Model Training:** Used a decision tree classifier to predict whether a patient would attend 
+4. **Model Training:** Used a decision tree classifier to predict whether a patient would attend 
 or miss their appointment. 
-**5. Visualization:** Built Power BI dashboards highlighting attendance rates, weekday trends, 
+5. **Visualization:** Built Power BI dashboards highlighting attendance rates, weekday trends, 
 and no-show predictions. 
-**6. Insights and Recommendations:** Proposed data-driven scheduling strategies and patient 
+6. **Insights and Recommendations:** Proposed data-driven scheduling strategies and patient 
 reminder optimizations.
