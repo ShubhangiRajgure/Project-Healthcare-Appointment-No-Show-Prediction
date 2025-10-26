@@ -8,10 +8,10 @@ wastage and improve patient care. This project leverages data analytics and pred
 modeling to identify high-risk appointments likely to result in no-shows. 
 
 ## Tools Used 
-**1. Python (Pandas, Scikit-learn):** For data preprocessing and building the decision tree 
+1. **Python (Pandas, Scikit-learn):** For data preprocessing and building the decision tree 
 prediction model. 
-**2. Power BI:** For designing interactive dashboards and data storytelling. 
-**3. Microsoft Excel:** For dataset inspection and basic data structuring. 
+2. **Power BI:** For designing interactive dashboards and data storytelling. 
+3. **Microsoft Excel:** For dataset inspection and basic data structuring. 
 
 ## Steps Involved in Building the Project 
 1. **Data Collection:** Imported appointment dataset containing details like patient ID, doctor 
